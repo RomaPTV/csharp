@@ -1,0 +1,3 @@
+int numberA = 3;
+int numberB = 5;
+Condole.WriteLine(numberA + numberB)

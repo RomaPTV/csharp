@@ -1,0 +1,15 @@
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\bin\Debug\net7.0\magic.exe
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\bin\Debug\net7.0\magic.deps.json
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\bin\Debug\net7.0\magic.runtimeconfig.json
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\bin\Debug\net7.0\magic.dll
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\bin\Debug\net7.0\magic.pdb
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\obj\Debug\net7.0\magic.csproj.AssemblyReference.cache
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\obj\Debug\net7.0\magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\obj\Debug\net7.0\magic.AssemblyInfoInputs.cache
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\obj\Debug\net7.0\magic.AssemblyInfo.cs
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\obj\Debug\net7.0\magic.csproj.CoreCompileInputs.cache
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\obj\Debug\net7.0\magic.dll
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\obj\Debug\net7.0\refint\magic.dll
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\obj\Debug\net7.0\magic.pdb
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\obj\Debug\net7.0\magic.genruntimeconfig.cache
+C:\Users\79323\Desktop\Учеба iT\folder\example001\magic\obj\Debug\net7.0\ref\magic.dll
